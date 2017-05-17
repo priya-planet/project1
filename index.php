@@ -1,6 +1,6 @@
 <?php include("includes/head.php"); ?>
 <!--head end -->
-<title>Urban Staff</title>
+<title>Git</title>
 </head>
 
 <body>
@@ -9,7 +9,9 @@
 <?php include("includes/header.php"); ?>
 <!--header end --> 
 
-
+<div class="container well">
+	<h2><center>Web Stuff Goes Here</center></h2>
+</div>
 <!--footer start -->
 <?php include("includes/footer.php"); ?>
 <!--footer end -->
