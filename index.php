@@ -9,9 +9,7 @@
 <?php include("includes/header.php"); ?>
 <!--header end --> 
 
-<div class="container well">
-	<h2><center>Web Stuff Goes Here</center></h2>
-</div>
+
 <!--footer start -->
 <?php include("includes/footer.php"); ?>
 <!--footer end -->
