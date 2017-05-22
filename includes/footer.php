@@ -58,6 +58,10 @@
 			<img src="images/projects/project6.jpg" class="img-responsive center-block">
 		</div>
 
+<!--footer start-->
+
+<!--footer end-->
+
 	</div>
 
 </div>
