@@ -156,7 +156,9 @@ body{ background:#fff;}
  .right-clear{
 	padding-right: 0;
 }
-}/*/Footer*/
+}
+/*/Footer*/
 
 
 .page-container{ padding:50px 0 50px; background:#eee;}
+.light-section{ background:#9F9; padding:50px;}
