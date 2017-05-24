@@ -61,6 +61,7 @@
   </div>
 </div>
 <div class="color-section-1"> Section 1 </div>
+<div class="color-section-1 color-section-2"> Section 2 </div>
 
 <!--footer start -->
 <?php include("includes/footer.php"); ?>
