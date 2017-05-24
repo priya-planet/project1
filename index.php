@@ -80,10 +80,7 @@
 </div>
     
 
-
-
-
-
+    </div></div>
 <!--footer start -->
 <?php include("includes/footer.php"); ?>
 <!--footer end --> 

@@ -156,10 +156,10 @@ body{ background:#fff;}
  .right-clear{
 	padding-right: 0;
 }
-}
-/*/Footer*/
+}/*/Footer*/
 
 
+<<<<<<< HEAD
 .page-container{ padding:50px 0 50px; background:#eee;}
 .light-section{ background:#9F9; padding:50px;}
 
@@ -260,3 +260,4 @@ body{ background:#fff;}
   left: 50px;
   top: 50px;
 }
+.page-container{ padding:50px 0 50px; background:#eee;}
