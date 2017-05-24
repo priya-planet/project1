@@ -60,8 +60,7 @@
       </a> </div>
   </div>
 </div>
-
-<div class="light-section"> </div>
+<div class="color-section-1"> Section 1 </div>
 
 <!--footer start -->
 <?php include("includes/footer.php"); ?>
