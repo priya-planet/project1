@@ -56,6 +56,7 @@
           <h1>Lorem ipsum dolor</h1>
           <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. <span>...Read More</span> </p>
         </div>
+<<<<<<< HEAD
         </a> </div>
     </div>
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque felis, malesuada eget sapien sit amet, posuere pretium tortor. Donec eu faucibus quam, non placerat sem. Ut luctus ultricies sapien, ac semper risus tincidunt sit amet. Maecenas ornare blandit malesuada. Param nun so laten luctum.<br>
@@ -81,6 +82,29 @@
     
 
     </div></div>
+=======
+    </div></div>
+<div class="light-section">
+
+
+
+</div>  
+
+<div class="container"><br>
+<br>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque felis, malesuada eget sapien sit amet, posuere pretium tortor. Donec eu faucibus quam, non placerat sem. Ut luctus ultricies sapien, ac semper risus tincidunt sit amet. Maecenas ornare blandit malesuada. Param nun so laten luctum.<br>
+<br>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque felis, malesuada eget sapien sit amet, posuere pretium tortor. Donec eu faucibus quam, non placerat sem. Ut luctus ultricies sapien, ac semper risus tincidunt sit amet. Maecenas ornare blandit malesuada. Param nun so laten luctum.<br>
+<br>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque felis, malesuada eget sapien sit amet, posuere pretium tortor. Donec eu faucibus quam, non placerat sem. Ut luctus ultricies sapien, ac semper risus tincidunt sit amet. Maecenas ornare blandit malesuada. Param nun so laten luctum.<br>
+<br>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque felis, malesuada eget sapien sit amet, posuere pretium tortor. Donec eu faucibus quam, non placerat sem. Ut luctus ultricies sapien, ac semper risus tincidunt sit amet. Maecenas ornare blandit malesuada. Param nun so laten luctum.<br>
+<br></div>
+  
+>>>>>>> parent of 16f308d... thumb added
 <!--footer start -->
 <?php include("includes/footer.php"); ?>
 <!--footer end --> 
