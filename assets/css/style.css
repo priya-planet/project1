@@ -1,93 +1,26 @@
 @charset "utf-8";
 
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
-
 .header{ padding:20px 0;}
 body{ background:#fff;}
 
-/*Footer*/
-.nb-footer{
-  background: #272727;
-  margin-top:30px;
-  padding-bottom: 30px;
-}
-.nb-footer .footer-single{
-  margin-top: 30px;
-}
-.nb-footer .footer-title{
-    display: block;
-  margin: 10px 0 25px 0;
-  border-bottom: 1px dotted #e4e9f0;
-}
-.nb-footer .footer-single a{
-	text-decoration: none;
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 280px;
+  background: 
+  /* color overlay */ 
+    linear-gradient(
+      rgba(240, 212, 0, 0.45), 
+      rgba(0, 0, 0, 0.45)
+    ),
+    /* image to overlay */
+    url(http://images.cdn.fotopedia.com/_avPIZmqM3w-7z161LH_268-hd.jpg);
 }
 
-.nb-footer .footer-single h2{
-    color: #eee;
-  font-size: 18px;
-  font-weight: 200;
-  display: inline-block;
-  border-bottom: 2px solid #29abe0;
-  padding-bottom: 5px;
-  margin-bottom: -2px;
-}
-.nb-footer .footer-single li{
-  border-top: solid 1px #353535;
-}
-.nb-footer .footer-single li:first-child{
-  border-top: none;
-}
-.nb-footer .footer-single li a{
-  color: #979797;
-  font-size: 12px;
-  padding: 6px 0px;
-  display: block;
-  transition:all 0.4s ease-in-out;
-}
-.nb-footer .footer-single li a:hover{
-  color: #29abe0;
-}
-.nb-footer .footer-single li a:hover i{
-  color: #29abe0;
-}
-.nb-footer .dummy-logo {
-    margin-top: 11px;
-    padding-bottom: 9px;
-}
-.nb-footer .dummy-logo .icon {
-    margin-right: 10px;
-    border-radius: 20px;
-    margin-top: 24px;
-}
-.nb-footer .brand {
-    background: #29abe0;
-}
-.nb-footer .dummy-logo i {
-    font-size: 50px;
-    color: #fff;
-    padding: 5px;
-}
-.nb-footer .dummy-logo p {
-    color: #999;
-    font-size: 12px;
-}
-.nb-footer .dummy-logo h2 {
-    font-size: 24px !important;
-    border-bottom: none;
-    color: #696969;
-    padding: 5px 0;
-}
-.nb-footer .btn-footer{
-  border: 1px solid #29abe0;
-  margin-top: 10px;
-  color: #999;
-}
-.nb-footer .btn-footer:hover{
-  background: #29abe0;
-  color: #fff;
-  transition:all 0.4s ease-in-out;
 
+<<<<<<< HEAD
 }
 .nb-footer .useful-links li a{
   text-transform: uppercase;
@@ -163,8 +96,16 @@ body{ background:#fff;}
 .page-container{ padding:50px 0 50px; background:#eee;}
 .light-section{ background:#9F9; padding:50px;}
 
+=======
+/* Custom footer CSS
+-------------------------------------------------- */
+>>>>>>> parent of 3e7a80b... container with new footer
 
+.footertext {
+  color: #ffffff;
+}
 
+<<<<<<< HEAD
 /*Main style*/
 .list-quotes {
     cursor: pointer;
@@ -238,3 +179,5 @@ body{ background:#fff;}
     text-transform: capitalize;
     color: #fff;
 }
+=======
+>>>>>>> parent of 3e7a80b... container with new footer

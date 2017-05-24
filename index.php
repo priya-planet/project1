@@ -9,15 +9,8 @@
 <?php include("includes/header.php"); ?>
 <!--header end --> 
 
-<div class="page-container"><div class="container">
-        <div class="row">
-            <div class="col-sm-4">
-                <i style="color:#29abe0;font-size:4em;" class="fa fa-server" aria-hidden="true"></i><br><br>
-                <strong style="font-size:18px;">Lorem Ipsum Dolor</strong>
-                <br>
-                <p style="font-size:13px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque felis, malesuada eget sapien sit amet, posuere pretium tortor. Donec eu faucibus quam, non placerat sem. Ut luctus ultricies sapien, ac semper risus tincidunt sit amet. Maecenas ornare blandit malesuada. Param nun so laten luctum.</p>
-            </div>
 
+<<<<<<< HEAD
             <div class="col-sm-4">
                 <i style="color:#29abe0;font-size:4em;" class="fa fa-cloud-upload" aria-hidden="true"></i><br><br>
                 <strong style="font-size:18px;">Cras Id Augue Vel Lacus Egestas</strong>
@@ -97,6 +90,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque felis, malesu
 
 
   
+=======
+>>>>>>>
 <!--footer start -->
 <?php include("includes/footer.php"); ?>
 <!--footer end -->
